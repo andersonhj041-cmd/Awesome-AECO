@@ -43,6 +43,14 @@ AECO stands for Architecture, Engineering, Construction, and Operations. It refe
   JavaScript toolkit (WASM-powered) for bringing IFC BIM data into web applications. Includes `web-ifc` for fast parsing and `web-ifc-three` for viewing in Three.js.
   *GitHub: [ThatOpen/engine_web-ifc](https://github.com/ThatOpen/engine_web-ifc)*
 
+- **That Open Engine Fragments**
+  High-performance 3D engine for efficiently handling massive amounts of BIM data using the Fragments format.
+  *GitHub: [ThatOpen/engine_fragment](https://github.com/ThatOpen/engine_fragment)*
+
+- **That Open UI Components**
+  Collection of web components designed for Building Information Modeling (BIM) applications.
+  *GitHub: [ThatOpen/engine_ui-components](https://github.com/ThatOpen/engine_ui-components)*
+
 - **Speckle**
   Open-source AEC data platform ("Git for BIM") that enables real-time collaboration and interoperability by streaming geometry and data between design tools.
   *GitHub: [specklesystems/speckle-server](https://github.com/specklesystems/speckle-server)*
@@ -151,6 +159,10 @@ AECO stands for Architecture, Engineering, Construction, and Operations. It refe
   Grasshopper plugin for generating IFC-compliant geometries in Rhino.
   *GitHub: [MadsHolten/IFC-Grasshopper](https://github.com/MadsHolten/IFC-Grasshopper)*
 
+- **Polygonjs**
+  Node-based WebGL design tool for creating interactive 3D experiences and digital twins without coding.
+  *GitHub: [polygonjs/polygonjs](https://github.com/polygonjs/polygonjs)*
+
 ## IoT & Smart Buildings
 
 - **Home Assistant**
@@ -172,6 +184,14 @@ AECO stands for Architecture, Engineering, Construction, and Operations. It refe
 - **ThingsBoard**
   Open-source IoT platform for device management, data visualization, and analytics.
   *GitHub: [thingsboard/thingsboard](https://github.com/thingsboard/thingsboard)*
+
+- **Google Digital Buildings**
+  Uniform schema and toolset for representing structured information about buildings and their installed equipment.
+  *GitHub: [google/digitalbuildings](https://github.com/google/digitalbuildings)*
+
+- **Brick Schema**
+  Open-source uniform metadata schema for efficiently representing metadata in buildings.
+  *GitHub: [BrickSchema/Brick](https://github.com/BrickSchema/Brick)*
 
 ## Facility & Asset Management
 
@@ -213,6 +233,10 @@ AECO stands for Architecture, Engineering, Construction, and Operations. It refe
   Framework for creating digital twins of buildings and infrastructure.
   *GitHub: [digitaltwinconsortium/DigitalTwinToolkit](https://github.com/digitaltwinconsortium/DigitalTwinToolkit)*
 
+- **PlayCanvas**
+  Open-source WebGL game engine for building interactive 3D visualizations and digital twins.
+  *GitHub: [playcanvas/engine](https://github.com/playcanvas/engine)*
+
 ## GIS & Mapping
 
 - **QGIS**
@@ -226,6 +250,14 @@ AECO stands for Architecture, Engineering, Construction, and Operations. It refe
 - **OpenLayers**
   High-performance JS library for interactive maps on the web.
   *GitHub: [openlayers/openlayers](https://github.com/openlayers/openlayers)*
+
+- **BlenderGIS**
+  Blender addon to make the bridge between Blender's 3D data and 2D geographic data.
+  *GitHub: [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS)*
+
+- **Awesome GIS**
+  A curated list of GIS, remote sensing, 3D scanning, and other geospatial related sources.
+  *GitHub: [sshuair/awesome-gis](https://github.com/sshuair/awesome-gis)*
 
 ## Project Management
 
