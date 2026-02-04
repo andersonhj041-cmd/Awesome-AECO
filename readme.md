@@ -67,6 +67,10 @@ AECO stands for Architecture, Engineering, Construction, and Operations. It refe
   Web-based BIM viewer for IFC models with clash detection and collaboration features.
   *GitHub: [opensourceBIM/BIMsurfer](https://github.com/opensourceBIM/BIMsurfer)*
 
+- **GomeraX**
+  Experimental IFC viewer with AI-powered BIM assistant. Features WebGL and WebGPU rendering, advanced sectioning, first-person navigation, element clustering, and natural language commands for model interaction via local LLM.
+  *GitHub: [salpbes/GomeraX](https://github.com/salpbes/GomeraX)*
+
 ## CAD (Computer-Aided Design)
 
 - **FreeCAD**
