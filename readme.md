@@ -71,6 +71,23 @@ AECO stands for Architecture, Engineering, Construction, and Operations. It refe
   Experimental IFC viewer with AI-powered BIM assistant. Features WebGL and WebGPU rendering, advanced sectioning, first-person navigation, element clustering, and natural language commands for model interaction via local LLM.
   *GitHub: [salpbes/GomeraX](https://github.com/salpbes/GomeraX)*
 
+- **.bim (dotBIM)**
+  Minimalist file format for BIM
+  *GitHub: [paireks/dotbim](https://github.com/paireks/dotbim)*
+
+- **xeokit convert**
+  Convert BIM and AEC models directly into XKT files with JavaScript for super fast loading into xeokit
+  *GitHub: [xeokit/xeokit-convert/](https://github.com/xeokit/xeokit-convert/)*
+
+- **xeokit BIM Viewer**
+  Bundled BIM Viewer built on top of xeokit SDK with features like measurements, tree view explorer, annotations, slicing, first-person navigation
+  *GitHub: [xeokit/xeokit-bim-viewer](https://github.com/xeokit/xeokit-bim-viewer)*
+
+- **xeokit SDK**
+  Productive open-source JavaScript SDK and 3D engine with its own WebGL renderer and extensive library of feature examples for viewing BIM, IFC, BCF, Revit, Point Clouds and other with real-world coordinates and double precision with XKT format
+  *GitHub: [xeokit/xeokit-sdk](https://github.com/xeokit/xeokit-sdk)*
+
+
 ## CAD (Computer-Aided Design)
 
 - **FreeCAD**
