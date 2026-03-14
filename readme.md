@@ -87,6 +87,9 @@ AECO stands for Architecture, Engineering, Construction, and Operations. It refe
   Productive open-source JavaScript SDK and 3D engine with its own WebGL renderer and extensive library of feature examples for viewing BIM, IFC, BCF, Revit, Point Clouds and other with real-world coordinates and double precision with XKT format
   *GitHub: [xeokit/xeokit-sdk](https://github.com/xeokit/xeokit-sdk)*
 
+- **IFClite**
+  Open-source toolkit for working with IFC files in the browser, on a server, or in a desktop app. Features a WebGPU 3D viewer, IFC4/IFC4X3 support, BCF collaboration, IDS compliance checking, bSDD lookup, 2D drawing generation, and export to IFC, glTF, CSV, JSON, and Parquet.
+  *GitHub: [louistrue/ifc-lite](https://github.com/louistrue/ifc-lite)*
 
 ## CAD (Computer-Aided Design)
 
